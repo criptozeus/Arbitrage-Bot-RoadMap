@@ -1,6 +1,6 @@
 # Arbitrage-Bot-RoadMap
 
-## !. Get Token Price from Pool
+## 1. Get Token Price from Pool ( Current )
 
 ## 2. Swap Instructions
 
